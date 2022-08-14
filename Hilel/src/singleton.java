@@ -1,6 +1,7 @@
 public class singleton {
     private static singleton instance;
     private int size = 0;
+    private int a = 0;
 
     private singleton ()
     {
